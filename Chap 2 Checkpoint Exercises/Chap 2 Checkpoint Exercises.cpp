@@ -12,12 +12,5 @@
 using namespace std;
 int main()
 {
-    char first, middle, last;
-    first = 'A';
-    middle = 'C';
-    last = 'M';
-    cout << first;
-    cout << middle;
-    cout << last;
-    return 0;
+ 
 
