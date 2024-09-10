@@ -2,7 +2,7 @@
 //Austin Mollard
 //10 Sep 2024
 //Project: "Chapter 2 Checkpoint Exercises"
-//Branch: "Checkpoint_2-14"
+//Branch: "Checkpoint_2-17"
 
 //Objective for this checkpoint: Write a program that has the following character variables: first, middle, and last.
 //Store your initials in these variables then display them on the screen. Then replace code in main with this one.
