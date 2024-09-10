@@ -9,14 +9,13 @@
 //Then, compile/run/verify results.
 
 #include <iostream>
-#include <string>
 using namespace std;
 int main()
 {
-	string fullName, realAddress, actualPhone;
-	fullName = "Austin C Mollard";
-	realAddress = "69 Noneya St Anywhere, AS USA";
-	actualPhone = "(123)456-7890";
-	cout << "My name is " << fullName << '\n' << "I live at " << realAddress << '\n' << "You can contact me at " << actualPhone << endl;
+	int age;
+	age = 25;
+	float weight;
+	weight = 250;
+	cout << "My age is " << age << " and my weight is " << weight << "." << endl;
 	return 0;
 }
