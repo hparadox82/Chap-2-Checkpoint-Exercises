@@ -4,9 +4,15 @@
 // Project: Chapter 2 Checkpoint Exercises (master)
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
-}
+    char first, middle, last;
+    first = 'A';
+    middle = 'C';
+    last = 'M';
+    cout << first;
+    cout << middle;
+    cout << last;
+    return 0;
 
