@@ -13,13 +13,14 @@
 //program.Verify that it is producing the correct results.
 
 #include <iostream>
+#include <string>
 using namespace std;
 int main()
 {
-	int age;
-	age = 25;
-	float weight;
-	weight = 250;
-	cout << "My age is " << age << " and my weight is " << weight << "." << endl;
+	string fullName, realAddress, actualPhone;
+	fullName = "Austin C Mollard";
+	realAddress = "69 Noneya St Anytown, AS USA";
+	actualPhone = "(123) 456-7890";
+	cout << "Hi, my name is " << fullName << '\n' << "I currently live at " << realAddress << '\n' << "You can contact me at " << actualPhone << "." << endl;
 	return 0;
 }
